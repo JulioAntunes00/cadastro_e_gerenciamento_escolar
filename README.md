@@ -33,6 +33,19 @@ O sistema possui controle de acesso baseado em níveis de permissão:
 
 ---
 
+## Telas do Sistema
+
+### Menu Principal
+![Menu Principal do Sistema](assets/menu_professor.png)
+
+### Menu Aluno
+![Menu do Aluno](assets/menu_aluno.png)
+
+### Conversa com a IA
+![Chat com Gemini](assets/conversa_ia.png)
+
+---
+
 ##  Como rodar o projeto
 
 1. **Clone o repositório:**

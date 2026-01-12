@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Coordenador Padrão",
+        "usuario": "coord",
+        "senha": "$2b$12$qZJOWFKaXfrBNT7aDEka9.pKdLmsUt5YSMuZNjdfd.ayyQOczYVd2",
+        "perfil": "Coordenador"
+    },
+    {
+        "nome": "Marcão",
+        "usuario": "marco",
+        "senha": "$2b$12$lyHibOC72P.HhQr5xioSPO8ci5zAgT6H1Gb1b8MxwV2YD6k9xZZW2",
+        "perfil": "Professor"
+    },
+    {
+        "nome": "Julio",
+        "usuario": "julio",
+        "senha": "$2b$12$nuWWShUyYGmmLE8sBzcblukldyKsdh5OZsAJTz7ISe8P7J9CKBKPe",
+        "perfil": "Aluno"
+    },
+    {
+        "nome": "jaum",
+        "usuario": "jaum",
+        "senha": "$2b$12$2YmpxGN2AM905DmLMM1HGuiMNjYo62p1b.ZbNQzZJdm0Y9WMZBlgO",
+        "perfil": "Aluno"
+    },
+    {
+        "nome": "jao",
+        "usuario": "jao",
+        "senha": "$2b$12$MONRP2qaQ6R8fEMneZ4RdO3PQj28ilXq6As8UMOl3krNwt89pgwVG",
+        "perfil": "Professor"
+    }
+]

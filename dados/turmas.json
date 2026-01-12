@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "ADS II",
+        "professor": "rafa",
+        "alunos": [
+            "josealdo@gmail.com",
+            "jonas"
+        ]
+    },
+    {
+        "nome": "ADS I",
+        "professor": "rafa",
+        "alunos": [
+            "pedro"
+        ]
+    },
+    {
+        "nome": "dst1",
+        "professor": "marco",
+        "alunos": [
+            "julio",
+            "jaum"
+        ]
+    },
+    {
+        "nome": "alexandre",
+        "professor": "marco",
+        "alunos": []
+    }
+]
